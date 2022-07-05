@@ -2,10 +2,10 @@
 
 ***
 
-* [HTML](HTML/READMY.md)
-* [CSS](CSS/READMY.md)
-* [Java Script](JAVA_SCRIPT/READMY.md)
-* [React/Redux](REACT/READMY.md)
-* [WEB-tehnologies](WEB_TEHNOLOGIES/READMY.md)
-* [Git](GIT/READMY.md)
-* [Общие вопросы](GENERAL_QUESTIONS/READMY.md)
+* [HTML](HTML/README.md)
+* [CSS](CSS/README.md)
+* [Java Script](JAVA_SCRIPT/README.md)
+* [React/Redux](REACT/README.md)
+* [WEB-tehnologies](WEB_TEHNOLOGIES/README.md)
+* [Git](GIT/README.md)
+* [Общие вопросы](GENERAL_QUESTIONS/README.md)
